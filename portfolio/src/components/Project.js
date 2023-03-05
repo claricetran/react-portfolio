@@ -3,18 +3,19 @@ import ghLogo from "../assets/images/github_logo.svg";
 
 export default function Project(props) {
     return (
-        <div class="card">
-            <img src={props.img} alt={props.alt} class="card-img" />
-            <div class="card-info">
-                <h3>
-                    <a href={props.link}>
-                        <b>{props.name}</b>
-                    </a>
-                </h3>
-                <a href={props.repo}>
-                    <img src={ghLogo} alt="repo" />
+        <figure className="animate__animated animate__zoomIn animate__fadeOut">
+            <img src={props.img} alt={props.alt} className="card-img" />
+            <figcaption
+            // className="animate__animated animate__fadeInDown animate__fadeOutUp"
+            >
+                <a href={props.link} className="pLink">
+                    <b>{props.name}</b>
                 </a>
-            </div>
-        </div>
+
+                <a href={props.repo} className="pRepo">
+                    <img src={ghLogo} alt="repo" className="card-logo" />
+                </a>
+            </figcaption>
+        </figure>
     );
 }

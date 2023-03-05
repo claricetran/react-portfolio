@@ -18,6 +18,7 @@ function App() {
                 <Route path="/resume" element={<Resume />} />
                 <Route path="*" element={<h2>404 page not found'</h2>} />
             </Routes>
+            <div style={{ flexGrow: "1" }}></div>
             <Footer />
         </BrowserRouter>
     );

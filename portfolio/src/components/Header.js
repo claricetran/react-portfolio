@@ -5,7 +5,7 @@ import Navigation from "./Navigation";
 export default function Header() {
     return (
         <header>
-            <img src={clarice} alt="Clarice Tran" id="title" />
+            <img src={clarice} alt="Clarice Tran" id="title" className="animate__animated animate__fadeInDown" />
             <Navigation />
         </header>
     );

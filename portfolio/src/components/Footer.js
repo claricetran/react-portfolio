@@ -15,7 +15,9 @@ export default function Footer() {
             <a href="https://twitter.com/c_l_a_rice">
                 <img alt="twitter logo" src={tLogo} />
             </a>
-            <div>© 2023 Clarice Tran</div>
+            <div>
+                <h3>© 2023 Clarice Tran</h3>
+            </div>
         </footer>
     );
 }

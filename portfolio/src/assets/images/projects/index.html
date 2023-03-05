@@ -1,0 +1,100 @@
+<!-- This site will serve as Clarice's portfolio for future employers to check out. -->
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="./assets/css/reset.css" />
+        <link rel="stylesheet" href="./assets/css/style.css" />
+        <title>Clarice Tran</title>
+    </head>
+    <body>
+        <!-- Header with avatar, name, and navigation links -->
+        <header class="text-center">
+            <img src="./assets/images/me.png" />
+            <h1>Clarice Tran</h1>
+            <nav>
+                <ul>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#portfolio">Portfolio</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <!-- <li><a href="resume.html">Resume</a></li> Resume to be added at a later time-->
+                </ul>
+            </nav>
+        </header>
+        <!-- About me -->
+        <section id="about" class="margins">
+            <h2>About Me</h2>
+            <p class="margins">
+                My name is Clarice Tran. I've lived in the Greater Seattle Area my whole life and graduated from the University of Washington with a degree in psychology. I worked at EagleView
+                Technologies for over 3 years and recently reignited my interest and passion for coding. I am studying to become a full stack developer.
+            </p>
+        </section>
+        <!-- Portfolio -->
+        <section id="portfolio" class="margins">
+            <h2>Portfolio</h2>
+            <section id="portfolio-work" class="margins">
+                <!-- First figure with an id because the first project will have a different width than the others. -->
+                <figure id="first-work">
+                    <a href="https://claricetran.github.io/code-refactor/" target="_blank">
+                        <img src="./assets/images/dont-wake-up.png" alt="" />
+                        <figcaption>
+                            <h3>Don't Wake Up</h3>
+                            <p>JS, CSS, HTML</p>
+                        </figcaption>
+                    </a>
+                </figure>
+                <figure>
+                    <a href="https://roomease.herokuapp.com/" target="_blank">
+                        <img src="./assets/images/logo-mockup-v2.png" alt="A roomies application" />
+                        <figcaption>
+                            <h3>RoomEASE</h3>
+                            <p>Node.js, Express, MySQL, HTML, CSS</p>
+                        </figcaption>
+                    </a>
+                </figure>
+                <figure>
+                    <a href="https://notetake.herokuapp.com/" target="_blank">
+                        <img src="./assets/images/noteTakerUsage.gif" alt="A note taking application" />
+                        <figcaption>Coming Soon</figcaption>
+                    </a>
+                </figure>
+                <figure>
+                    <a href="https://claricetran.github.io/css-tips-and-tricks/" target="_blank">
+                        <img src="./assets/images/css-tips-and-tricks-ss.png" alt="" />
+                        <figcaption>
+                            <h3>CSS Tips and Tricks</h3>
+                            <p>HTML & CSS</p>
+                        </figcaption>
+                    </a>
+                </figure>
+                <!-- Placeholder images. Links will link to the top of page. -->
+                <figure>
+                    <a href="https://claricetran.github.io/code-refactor/" target="_blank">
+                        <img src="./assets/images/code-refctor-ss.png" alt="" />
+                        <figcaption>
+                            <h3>Horiseon Code Refactor</h3>
+                            <p>HTML & CSS</p>
+                        </figcaption>
+                    </a>
+                </figure>
+            </section>
+        </section>
+        <!-- Contact section -->
+        <footer id="contact" class="margins">
+            <h2>Contact Me</h2>
+            <nav class="margins">
+                <ul>
+                    <li><a href="tel:123.456.7890">Tel: 123.456.7890</a></li>
+                    <li>
+                        <a href="mailto:tran.clarice@gmail.com">Email: tran.clarice@gmail.com</a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/claricetran" target="_blank">Github</a>
+                    </li>
+                </ul>
+            </nav>
+        </footer>
+    </body>
+</html>

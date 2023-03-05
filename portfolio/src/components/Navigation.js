@@ -1,13 +1,24 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 export default function Navigation() {
     return (
-        <nav>
-            <Link to="/">About Me</Link>
-            <Link to="/portfolio">Portfolio</Link>
-            <Link to="/contact">Contact</Link>
-            <Link to="/resume">Resume</Link>
+        <nav className="animate__animated animate__fadeIn">
+            <NavLink to="/" exact="true" className={(navData) => (navData.isActive ? "navbar-link active" : "nav-link")}>
+                ABOUT ME
+            </NavLink>
+
+            <NavLink to="/portfolio" className={(navData) => (navData.isActive ? "navbar-link active" : "nav-link")}>
+                PORTFOLIO
+            </NavLink>
+
+            <NavLink to="/contact" className={(navData) => (navData.isActive ? "navbar-link active" : "nav-link")}>
+                CONTACT
+            </NavLink>
+
+            <NavLink to="/resume" className={(navData) => (navData.isActive ? "navbar-link active" : "nav-link")}>
+                RESUME
+            </NavLink>
         </nav>
     );
 }
