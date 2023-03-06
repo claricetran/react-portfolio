@@ -12,11 +12,11 @@ function App() {
         <BrowserRouter>
             <Header />
             <Routes>
-                <Route path="/" element={<About />} />
-                <Route path="/portfolio" element={<Portfolio />} />
-                <Route path="/contact" element={<Contact />} />
-                <Route path="/resume" element={<Resume />} />
-                <Route path="*" element={<h2>404 page not found'</h2>} />
+                <Route path="/react-portfolio/" element={<About />} />
+                <Route path="/react-portfolio/portfolio" element={<Portfolio />} />
+                <Route path="/react-portfolio/contact" element={<Contact />} />
+                <Route path="/react-portfolio/resume" element={<Resume />} />
+                <Route path="/react-portfolio/*" element={<h2>404 page not found.</h2>} />
             </Routes>
             <div style={{ flexGrow: "1" }}></div>
             <Footer />
