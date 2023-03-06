@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.923f9173.css",
+    "main.js": "/react-portfolio/static/js/main.c5560432.js",
+    "static/media/clarice.png": "/react-portfolio/static/media/clarice.aa7a50475d13ebf12b9f.png",
+    "static/media/techBlogUsage.gif": "/react-portfolio/static/media/techBlogUsage.5e2af36188882f8d86e0.gif",
+    "static/media/dont-wake-up.png": "/react-portfolio/static/media/dont-wake-up.b3e6683a9776c03d1aed.png",
+    "static/media/WeatherDashboardUsability.gif": "/react-portfolio/static/media/WeatherDashboardUsability.d13bc670e9ec517ea03e.gif",
+    "static/media/noteTakerUsage.gif": "/react-portfolio/static/media/noteTakerUsage.d3daef8e813529da6988.gif",
+    "static/media/clarice_tran_resume.pdf": "/react-portfolio/static/media/clarice_tran_resume.e5d79571ca01ef8ac566.pdf",
+    "static/media/JATE.PNG": "/react-portfolio/static/media/JATE.b1939c3a6a62f725a450.PNG",
+    "static/media/roomease.png": "/react-portfolio/static/media/roomease.8cbab3c7b722856466b3.png",
+    "static/media/github_logo.svg": "/react-portfolio/static/media/github_logo.b2294bccaa20da50b7d58419f07c0892.svg",
+    "static/media/mysql.svg": "/react-portfolio/static/media/mysql.c0571d009f945f2381476ad07ceb4d99.svg",
+    "static/media/react.svg": "/react-portfolio/static/media/react.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/twitter_logo.svg": "/react-portfolio/static/media/twitter_logo.9665ef3f8f7c31a2c704ff578b144a4b.svg",
+    "static/media/css3.svg": "/react-portfolio/static/media/css3.19cd0dec3a45c84933cf89413da68d3e.svg",
+    "static/media/html5.svg": "/react-portfolio/static/media/html5.e05dc519f445e8306881169981936c14.svg",
+    "static/media/node.svg": "/react-portfolio/static/media/node.b7d2308b16bd82b67987d0d1682f8e6b.svg",
+    "static/media/linkedin_logo.svg": "/react-portfolio/static/media/linkedin_logo.d670df15d9858d0b68ce9e96fd5e979f.svg",
+    "static/media/header.svg": "/react-portfolio/static/media/header.965f00a982ec59224b75da1ebe6947b0.svg",
+    "index.html": "/react-portfolio/index.html",
+    "static/media/express.svg": "/react-portfolio/static/media/express.a0b25b67bfebdd90a91b39556252e4f5.svg",
+    "static/media/mongodb.svg": "/react-portfolio/static/media/mongodb.3beac5ba18197ccbdea6e2f53e18edcf.svg",
+    "static/media/js.svg": "/react-portfolio/static/media/js.34cd9860149518f3e4ecc21a4b50efae.svg",
+    "main.923f9173.css.map": "/react-portfolio/static/css/main.923f9173.css.map",
+    "main.c5560432.js.map": "/react-portfolio/static/js/main.c5560432.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.923f9173.css",
+    "static/js/main.c5560432.js"
+  ]
+}
