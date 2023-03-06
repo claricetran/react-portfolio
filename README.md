@@ -14,13 +14,13 @@ This is my portfolio built using React. It's a way for future employers to check
 
 ## Installation
 
-To reach my portfolio site simply click the following link: []()
+To reach my portfolio site simply click the following link: [https://claricetran.github.io/react-portfolio/](https://claricetran.github.io/react-portfolio/)
 
 ## Usage
 
 To use the site, there is a nav bar which will light up which page you're currently on. You can check out my about me, my portfolio, my contact, and my resume. The portfolio has screenshots of my work and hovering over will allow you to see the link to the deployed application and the github repository. The contact does not send me an email at this time as no backend has been implemented for an SMTP yet. There is form validation for an email though. The resume allows you to click a link to download my resume and view the skills and awards I have. At the bottom of each page are links to my GitHub, LinkedIn, and Twitter.
+![reactPortfolioUsage](https://user-images.githubusercontent.com/16968424/223033651-810944f0-4b40-49f5-98ab-307d2e1bb9f3.gif)
 
-![usage image]()
 
 ## Credits
 
