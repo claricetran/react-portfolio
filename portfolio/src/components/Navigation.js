@@ -12,7 +12,7 @@ export default function Navigation() {
                 PORTFOLIO
             </NavLink>
 
-            <NavLink to="/react-portfolio//contact" className={(navData) => (navData.isActive ? "navbar-link active" : "nav-link")}>
+            <NavLink to="/react-portfolio/contact" className={(navData) => (navData.isActive ? "navbar-link active" : "nav-link")}>
                 CONTACT
             </NavLink>
 
