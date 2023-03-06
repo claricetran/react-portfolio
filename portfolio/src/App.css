@@ -51,6 +51,9 @@ footer {
     letter-spacing: 2px;
 }
 
+main {
+    margin-top: 2vh;
+}
 @keyframes neon {
     0% {
         text-shadow: -1px -1px 1px var(--shadow-color-light), -1px 1px 1px var(--shadow-color-light), 1px -1px 1px var(--shadow-color-light), 1px 1px 1px var(--shadow-color-light),

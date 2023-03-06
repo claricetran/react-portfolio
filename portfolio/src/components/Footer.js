@@ -6,13 +6,13 @@ import ghLogo from "../assets/images/github_logo.svg";
 export default function Footer() {
     return (
         <footer>
-            <a href="https://github.com/claricetran">
+            <a href="https://github.com/claricetran" target="_blank" rel="noreferrer">
                 <img alt="github logo" src={ghLogo} />
             </a>
-            <a href="https://www.linkedin.com/in/claricetran/">
+            <a href="https://www.linkedin.com/in/claricetran/" target="_blank" rel="noreferrer">
                 <img alt="linkedin logo" src={liLogo} />
             </a>
-            <a href="https://twitter.com/c_l_a_rice">
+            <a href="https://twitter.com/c_l_a_rice" target="_blank" rel="noreferrer">
                 <img alt="twitter logo" src={tLogo} />
             </a>
             <div>

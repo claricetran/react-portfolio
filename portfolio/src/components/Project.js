@@ -8,11 +8,11 @@ export default function Project(props) {
             <figcaption
             // className="animate__animated animate__fadeInDown animate__fadeOutUp"
             >
-                <a href={props.link} className="pLink">
+                <a href={props.link} className="pLink" target="_blank" rel="noreferrer">
                     <b>{props.name}</b>
                 </a>
 
-                <a href={props.repo} className="pRepo">
+                <a href={props.repo} className="pRepo" target="_blank" rel="noreferrer">
                     <img src={ghLogo} alt="repo" className="card-logo" />
                 </a>
             </figcaption>

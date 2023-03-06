@@ -10,7 +10,7 @@ const projects = [
         alt: "Don't Wake Up - story game",
         link: "https://claricetran.github.io/dont-wake-up/",
         name: "Don't Wake Up",
-        repo: "https://github.com/claricetran/dont-wake-uphttps://github.com/claricetran/dont-wake-up",
+        repo: "https://github.com/claricetran/dont-wake-up",
     },
     {
         id: 2,
