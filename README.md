@@ -25,6 +25,8 @@ To use the site, there is a nav bar which will light up which page you're curren
 ## Credits
 
 Icons by <a target="_blank" href="https://icons8.com">Icons8</a>
+[Animate.css](https://animate.style/) was used for the animations of the elements loading in.
+[Tutorial on making neon sign effect in CSS](https://css-tricks.com/how-to-create-neon-text-with-css/)
 
 ## License
 
