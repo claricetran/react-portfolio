@@ -21,6 +21,14 @@ const projects = [
         repo: "https://github.com/maximusDecimalusMeridius/roomease",
     },
     {
+        id: 7,
+        img: images[6],
+        alt: "Happy Tappers",
+        link: "https://happytappers.netlify.app/",
+        name: "Happy Tappers",
+        repo: "https://github.com/BRosencrans/happy-tappers-frontend",
+    },
+    {
         id: 3,
         img: images[2],
         alt: "Tech Blog",

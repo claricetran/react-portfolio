@@ -14,7 +14,7 @@ This is my portfolio built using React. It's a way for future employers to check
 
 ## Installation
 
-To reach my portfolio site simply click the following link: []()
+To reach my portfolio site simply click the following link: [](https://claricetran.github.io/react-portfolio/)
 
 ## Usage
 
