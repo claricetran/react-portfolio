@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.923f9173.css",
-    "main.js": "/react-portfolio/static/js/main.342649bf.js",
+    "main.js": "/react-portfolio/static/js/main.58098d18.js",
     "static/media/clarice.png": "/react-portfolio/static/media/clarice.aa7a50475d13ebf12b9f.png",
     "static/media/techBlogUsage.gif": "/react-portfolio/static/media/techBlogUsage.5e2af36188882f8d86e0.gif",
     "static/media/dont-wake-up.png": "/react-portfolio/static/media/dont-wake-up.b3e6683a9776c03d1aed.png",
     "static/media/WeatherDashboardUsability.gif": "/react-portfolio/static/media/WeatherDashboardUsability.d13bc670e9ec517ea03e.gif",
     "static/media/noteTakerUsage.gif": "/react-portfolio/static/media/noteTakerUsage.d3daef8e813529da6988.gif",
     "static/media/clarice_tran_resume.pdf": "/react-portfolio/static/media/clarice_tran_resume.e5d79571ca01ef8ac566.pdf",
+    "static/media/Happy Tappers.png": "/react-portfolio/static/media/Happy Tappers.a030ef5eb0125374e19c.png",
     "static/media/JATE.PNG": "/react-portfolio/static/media/JATE.b1939c3a6a62f725a450.PNG",
     "static/media/roomease.png": "/react-portfolio/static/media/roomease.8cbab3c7b722856466b3.png",
     "static/media/github_logo.svg": "/react-portfolio/static/media/github_logo.b2294bccaa20da50b7d58419f07c0892.svg",
@@ -24,10 +25,10 @@
     "static/media/mongodb.svg": "/react-portfolio/static/media/mongodb.3beac5ba18197ccbdea6e2f53e18edcf.svg",
     "static/media/js.svg": "/react-portfolio/static/media/js.34cd9860149518f3e4ecc21a4b50efae.svg",
     "main.923f9173.css.map": "/react-portfolio/static/css/main.923f9173.css.map",
-    "main.342649bf.js.map": "/react-portfolio/static/js/main.342649bf.js.map"
+    "main.58098d18.js.map": "/react-portfolio/static/js/main.58098d18.js.map"
   },
   "entrypoints": [
     "static/css/main.923f9173.css",
-    "static/js/main.342649bf.js"
+    "static/js/main.58098d18.js"
   ]
 }
