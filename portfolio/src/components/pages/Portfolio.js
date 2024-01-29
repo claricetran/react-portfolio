@@ -16,7 +16,7 @@ const projects = [
         id: 2,
         img: images[1],
         alt: "RoomEASE",
-        link: "https://roomease.herokuapp.com/",
+        link: "https://roomeasedeploy-8fdb93312210.herokuapp.com/",
         name: "RoomEASE",
         repo: "https://github.com/maximusDecimalusMeridius/roomease",
     },
